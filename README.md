@@ -1,5 +1,5 @@
 # Motorola Mobile Sales Dashboard – Power BI Project
-📌 Project Overview
+## Project Overview
 
 This Power BI dashboard provides an interactive analysis of mobile sales performance across different cities, brands, models, months, and payment methods.
 
@@ -17,7 +17,7 @@ Compare brand and model performance
 
 This dashboard simulates real-world retail sales analytics used by business decision-makers.
 
-🎯 Business Objectives
+## Business Objectives
 
 Monitor overall sales performance
 
@@ -29,7 +29,7 @@ Understand customer behavior through ratings and payment methods
 
 Support data-driven decision making
 
-📊 Key KPIs Displayed
+## Key KPIs Displayed
 
 Total Sales: 19K+
 
@@ -45,7 +45,7 @@ Brand-wise Performance
 
 Customer Ratings Distribution
 
-📈 Dashboard Insights
+## Dashboard Insights
 🔹 1. Monthly Sales Analysis
 
 Displays unit sales trends from January to December
@@ -137,7 +137,7 @@ Bar Chart
 
 Slicers & Filters
 
-📂 Key Features of the Dashboard
+## Key Features of the Dashboard
 
 Fully interactive filters:
 
@@ -159,7 +159,7 @@ Clean UI with professional layout
 
 Business-oriented design
 
-🧠 Skills Demonstrated
+## Skills Demonstrated
 
 Data Cleaning & Transformation
 
@@ -177,7 +177,7 @@ Dashboard UI/UX Structuring
 
 Insight Generation
 
-📌 Sample Business Questions Answered
+## Sample Business Questions Answered
 
 Which month has the highest sales?
 
@@ -191,7 +191,7 @@ How satisfied are customers based on ratings?
 
 Which brand generates the highest revenue?
 
-🚀 Project Impact
+## Project Impact
 
 This dashboard can help:
 
@@ -208,7 +208,7 @@ Management make strategic decisions
 (Add your screenshot image here)
 
 ![Dashboard Preview](dashboard.png)
-📌 Future Improvements
+## Future Improvements
 
 Add Profit & Cost Analysis
 
@@ -220,7 +220,7 @@ Drill-through pages
 
 Advanced DAX measures for margin analysis
 
-📎 How to Use
+## How to Use
 
 Download the .pbix file
 
