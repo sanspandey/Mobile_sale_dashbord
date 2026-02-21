@@ -1,4 +1,4 @@
-#Motorola Mobile Sales Dashboard – Power BI Project
+# Motorola Mobile Sales Dashboard – Power BI Project
 📌 Project Overview
 
 This Power BI dashboard provides an interactive analysis of mobile sales performance across different cities, brands, models, months, and payment methods.
